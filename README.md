@@ -72,4 +72,4 @@ Please DO copy and reuse and modify this code any way you like! Just don't repos
 
 Icons by FontAwesome ([https://fontawesome.com/](https://fontawesome.com/))
 
-Icons by Vectors Market on Flaticon (Christmas icons created by Vectors Market)
+Icons by Vectors Market on Flaticon ([Christmas icons created by Vectors Market](https://www.flaticon.com/free-icons/christmas))
