@@ -1258,8 +1258,7 @@ p.kudos,
 .abbreviated .icon .visitor,
 .skins .primary .icon,
 .admin .primary .icon,
-.tagset .primary .icon,
-a.rss span {
+.tagset .primary .icon {
     background-image: url(https://i.ibb.co/cXTtZy1p/icons-cute-x-mas.png) !important;
     background-size: 200px 835px !important;
 }
@@ -2167,7 +2166,7 @@ dl.meta {
     padding: 0.15em;
 }
 
-
+a.rss span,
 #symbols-key > dt:nth-child(1) > img:nth-child(1),
 #symbols-key > dd:nth-child(2) > dl:nth-child(2) > dt:nth-child(1) > img:nth-child(1),
 #symbols-key > dd:nth-child(2) > dl:nth-child(2) > dt:nth-child(3) > img:nth-child(1),
