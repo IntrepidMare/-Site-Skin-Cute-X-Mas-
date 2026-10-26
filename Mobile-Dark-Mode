@@ -139,7 +139,7 @@ span.claimed,
 /*  HEADER  */
 
 #header {
-  background-image: url("https://i.ibb.co/JRcZh2zQ/cute-dark-mode.png");
+  background-image: url("https://i.ibb.co/mrKC86MX/cute-dark.png");
   background-repeat: no-repeat;
   background-position: center bottom;
   background-size: cover;
