@@ -92,7 +92,7 @@ span.claimed,
 /*  HEADER  */
 
 #header {
-    background-image: url("https://i.ibb.co/JRcZh2zQ/cute-dark-mode.png");
+    background-image: url("https://i.ibb.co/mrKC86MX/cute-dark.png");
     background-repeat: no-repeat;
     background-position: center bottom;
     background-size: cover;
@@ -1275,8 +1275,7 @@ p.kudos,
 .abbreviated .icon .visitor,
 .skins .primary .icon,
 .admin .primary .icon,
-.tagset .primary .icon,
-a.rss span {
+.tagset .primary .icon {
     background-image: url(https://i.ibb.co/DDk5jSv6/icons-cute-x-mas-dark-mode.png) !important;
     background-size: 200px 835px !important;
 }
@@ -2275,6 +2274,7 @@ dl#symbols-key dt:nth-child(7) {
     background: url(https://i.ibb.co/J6sz1vZ/modal-keys-status.png);
 }
 
+a.rss span,
 #symbols-key > dd:nth-child(2) > dl:nth-child(2) > dt:nth-child(1),
 #symbols-key > dd:nth-child(2) > dl:nth-child(2) > dt:nth-child(3),
 #symbols-key > dd:nth-child(2) > dl:nth-child(2) > dt:nth-child(5),
