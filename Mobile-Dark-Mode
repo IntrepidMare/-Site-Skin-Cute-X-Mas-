@@ -1987,6 +1987,11 @@ li.comment {
   border-radius: 1em 0;
 }
 
+.thread .even {
+	background: var(--color3);
+	margin: 0;
+}
+
 div.icon a:focus {
   outline: none;
 }
