@@ -1429,8 +1429,7 @@ p.kudos,
 .abbreviated .icon .visitor,
 .skins .primary .icon,
 .admin .primary .icon,
-.tagset .primary .icon,
-a.rss span {
+.tagset .primary .icon {
   background-image: url(https://i.ibb.co/DDk5jSv6/icons-cute-x-mas-dark-mode.png) !important;
   background-size: 200px 835px !important;
 }
